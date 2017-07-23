@@ -97,15 +97,15 @@
 //        }
 //    }
 //
-//    /**
-//     * Calculates the price of the order.
-//
-//     * @param addWhippedCream is whether or not we should include whipped cream topping in the price
-//     * *
-//     * @param addChocolate    is whether or not we should include chocolate topping in the price
-//     * *
-//     * @return total price
-//     */
+    /**
+     * Calculates the price of the order.
+
+     * @param addWhippedCream is whether or not we should include whipped cream topping in the price
+     * *
+     * @param addChocolate    is whether or not we should include chocolate topping in the price
+     * *
+     * @return total price
+     */
 //    private fun calculatePrice(addWhippedCream: Boolean, addChocolate: Boolean): Int {
 //        // First calculate the price of one cup of coffee
 //        var basePrice = 5
